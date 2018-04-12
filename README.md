@@ -15,4 +15,3 @@ This is a Pokemon CRUD app that revolves around users building their own Pokemon
 - Express
 - Knex
 - PostgreSQL
-# react-pokemon-frontend
